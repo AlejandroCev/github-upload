@@ -1,0 +1,705 @@
+Archive member included because of file (symbol)
+
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o (exit)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o (memset)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o) (__fill_mem)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o (__init_cpp)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o) (__destroy_global_chain)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o (__copy_rom_sections_to_ram)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .text.__thumb_startup
+                0x00000000       0x3c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .text.__iar_program_start
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .bss.argv      0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_info    0x00000000      0x144 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_abbrev  0x00000000       0xc0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_aranges
+                0x00000000       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_line    0x00000000       0x68 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_str     0x00000000      0x286 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_frame   0x00000000       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text.SystemCoreClockUpdate
+                0x00000000        0xc ./Project_Settings/Startup_Code/system_S32K144.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000      0x85c ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x52 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0xa0 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x16 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x16 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x16 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x64 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000      0x185 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000      0x140 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x9d ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000      0x15b ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x28 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x58 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000    0x13d4e ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/hello_clocks.o
+ .text          0x00000000        0x0 ./src/hello_clocks.o
+ .data          0x00000000        0x0 ./src/hello_clocks.o
+ .bss           0x00000000        0x0 ./src/hello_clocks.o
+ .debug_macro   0x00000000      0x85c ./src/hello_clocks.o
+ .debug_macro   0x00000000       0x52 ./src/hello_clocks.o
+ .debug_macro   0x00000000       0xa0 ./src/hello_clocks.o
+ .debug_macro   0x00000000       0x16 ./src/hello_clocks.o
+ .debug_macro   0x00000000       0x16 ./src/hello_clocks.o
+ .debug_macro   0x00000000       0x16 ./src/hello_clocks.o
+ .debug_macro   0x00000000       0x64 ./src/hello_clocks.o
+ .debug_macro   0x00000000      0x185 ./src/hello_clocks.o
+ .debug_macro   0x00000000      0x140 ./src/hello_clocks.o
+ .debug_macro   0x00000000       0x9d ./src/hello_clocks.o
+ .debug_macro   0x00000000       0x10 ./src/hello_clocks.o
+ .debug_macro   0x00000000      0x15b ./src/hello_clocks.o
+ .debug_macro   0x00000000       0x28 ./src/hello_clocks.o
+ .debug_macro   0x00000000       0x58 ./src/hello_clocks.o
+ .debug_macro   0x00000000    0x13d4e ./src/hello_clocks.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .text          0x00000000        0x0 ./src/clocks_and_modes.o
+ .data          0x00000000        0x0 ./src/clocks_and_modes.o
+ .bss           0x00000000        0x0 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000      0x85c ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x52 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0xa0 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x16 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x16 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x16 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x64 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000      0x185 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000      0x140 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x9d ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x10 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000      0x15b ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x28 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x58 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000    0x13d4e ./src/clocks_and_modes.o
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .text.exit     0x00000000       0x38 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .text._Exit    0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .bss.__stdio_exit
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .bss.__console_exit
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_info    0x00000000      0x111 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_abbrev  0x00000000       0x91 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_loc     0x00000000       0x5d C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_aranges
+                0x00000000       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_line    0x00000000       0xa4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_str     0x00000000      0x252 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_frame   0x00000000       0x3c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .text.memset   0x00000000        0xc C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_info    0x00000000       0xec C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_abbrev  0x00000000       0x62 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_loc     0x00000000       0x64 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_line    0x00000000       0x8f C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_str     0x00000000      0x235 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_frame   0x00000000       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .text.__fill_mem
+                0x00000000       0x7a C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_info    0x00000000      0x137 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_abbrev  0x00000000       0x78 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_loc     0x00000000      0x16b C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_line    0x00000000       0xb2 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_str     0x00000000      0x247 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_frame   0x00000000       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .text.__init_cpp
+                0x00000000       0x4c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .text.__fini_cpp
+                0x00000000       0x34 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .text._ExitProcess
+                0x00000000        0x2 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .bss.__dso_handle
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_info    0x00000000      0x14a C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_abbrev  0x00000000       0xae C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_loc     0x00000000       0x9d C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_aranges
+                0x00000000       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_line    0x00000000       0x74 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_str     0x00000000      0x2a4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_frame   0x00000000       0x50 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__destroy_global_chain
+                0x00000000       0x18 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__register_global_object
+                0x00000000       0x14 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__cxa_atexit
+                0x00000000       0x38 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__aeabi_atexit
+                0x00000000        0xa C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__register_atexit
+                0x00000000        0x8 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__init_registers
+                0x00000000       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__init_hardware
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__init_user
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_curr_func
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_funcs
+                0x00000000      0x300 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss.__global_destructor_chain
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_info    0x00000000      0x2b3 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_abbrev  0x00000000      0x1d3 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_loc     0x00000000      0x144 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_aranges
+                0x00000000       0x58 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_line    0x00000000      0x107 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_str     0x00000000      0x2cb C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_frame   0x00000000       0xac C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .text.__flush_cache
+                0x00000000        0x2 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .text.__copy_rom_section
+                0x00000000       0x42 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .text.__copy_rom_sections_to_ram
+                0x00000000       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_info    0x00000000      0x20e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_abbrev  0x00000000      0x11f C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_loc     0x00000000       0xb3 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_aranges
+                0x00000000       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_line    0x00000000       0x9e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_str     0x00000000      0x249 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_frame   0x00000000       0x48 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .text._ExitProcess
+                0x00000000        0x2 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_info    0x00000000       0x4e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_abbrev  0x00000000       0x4a C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_aranges
+                0x00000000       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_line    0x00000000       0x45 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_str     0x00000000      0x1bd C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_frame   0x00000000       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x00000400         xr
+m_flash_config   0x00000400         0x00000010         xr
+m_text           0x00000410         0x0007fbf0         xr
+m_data           0x1fff8000         0x00007fff         rw
+m_data_2         0x20000000         0x00007000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+LOAD ./Project_Settings/Startup_Code/system_S32K144.o
+LOAD ./Project_Settings/Startup_Code/startup_S32K144.o
+LOAD ./Project_Settings/Startup_Code/startup.o
+LOAD ./src/hello_clocks.o
+LOAD ./src/clocks_and_modes.o
+START GROUP
+LOAD C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a
+LOAD C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\libm.a
+LOAD c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a
+LOAD C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m\librt.a
+END GROUP
+LOAD C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+                0x00000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x00000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+                0x00000000                M_VECTOR_RAM_SIZE = DEFINED (__ram_vector_table__)?0x400:0x0
+
+.interrupts     0x00000000      0x400
+                0x00000000                __VECTOR_TABLE = .
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x400 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x00000000                __isr_vector
+                0x00000400                . = ALIGN (0x4)
+
+.flash_config   0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x00000400       0x10 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410      0x2fc
+                0x00000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000410       0x40 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x00000410                Reset_Handler
+                0x0000044c                DebugMon_Handler
+                0x0000044c                Reserved88_IRQHandler
+                0x0000044c                CAN0_ORed_IRQHandler
+                0x0000044c                CAN2_Wake_Up_IRQHandler
+                0x0000044c                HardFault_Handler
+                0x0000044c                Reserved86_IRQHandler
+                0x0000044c                CAN1_ORed_Message_buffer_IRQHandler
+                0x0000044c                SysTick_Handler
+                0x0000044c                PendSV_Handler
+                0x0000044c                NMI_Handler
+                0x0000044c                DMA2_IRQHandler
+                0x0000044c                LPIT0_Ch0_IRQHandler
+                0x0000044c                LPI2C0_IRQHandler
+                0x0000044c                CAN0_ORed_Message_buffer_IRQHandler
+                0x0000044c                Watchdog_IRQHandler
+                0x0000044c                LPIT0_Ch3_IRQHandler
+                0x0000044c                LPUART1_Error_IRQHandler
+                0x0000044c                Reserved92_IRQHandler
+                0x0000044c                CAN1_Error_IRQHandler
+                0x0000044c                SWI_IRQHandler
+                0x0000044c                ADC0_IRQHandler
+                0x0000044c                Reserved39_IRQHandler
+                0x0000044c                UsageFault_Handler
+                0x0000044c                Reserved57_IRQHandler
+                0x0000044c                DefaultISR
+                0x0000044c                DMA9_IRQHandler
+                0x0000044c                DMA14_IRQHandler
+                0x0000044c                Reserved82_IRQHandler
+                0x0000044c                CAN1_Reserved3_IRQHandler
+                0x0000044c                Reserved71_IRQHandler
+                0x0000044c                PORTD_IRQHandler
+                0x0000044c                Reserved69_IRQHandler
+                0x0000044c                PORTB_IRQHandler
+                0x0000044c                Reserved70_IRQHandler
+                0x0000044c                ADC1_IRQHandler
+                0x0000044c                DMA5_IRQHandler
+                0x0000044c                RTC_IRQHandler
+                0x0000044c                PDB0_IRQHandler
+                0x0000044c                CAN2_Reserved1_IRQHandler
+                0x0000044c                CAN2_Reserved2_IRQHandler
+                0x0000044c                FTM1_IRQHandler
+                0x0000044c                Reserved61_IRQHandler
+                0x0000044c                CAN2_ORed_Message_buffer_IRQHandler
+                0x0000044c                LPSPI1_IRQHandler
+                0x0000044c                LPUART1_RxTx_IRQHandler
+                0x0000044c                LPUART0_Error_IRQHandler
+                0x0000044c                RTC_Seconds_IRQHandler
+                0x0000044c                FTFE_IRQHandler
+                0x0000044c                CAN2_ORed_IRQHandler
+                0x0000044c                Reserved72_IRQHandler
+                0x0000044c                DMA11_IRQHandler
+                0x0000044c                Reserved37_IRQHandler
+                0x0000044c                Read_Collision_IRQHandler
+                0x0000044c                CAN2_Error_IRQHandler
+                0x0000044c                DMA7_IRQHandler
+                0x0000044c                LPIT0_Ch1_IRQHandler
+                0x0000044c                LPUART2_RxTx_IRQHandler
+                0x0000044c                LPSPI0_IRQHandler
+                0x0000044c                CAN0_Reserved1_IRQHandler
+                0x0000044c                ACMP0_IRQHandler
+                0x0000044c                MemManage_Handler
+                0x0000044c                Reserved90_IRQHandler
+                0x0000044c                Reserved83_IRQHandler
+                0x0000044c                SVC_Handler
+                0x0000044c                CAN1_Wake_Up_IRQHandler
+                0x0000044c                DMA13_IRQHandler
+                0x0000044c                DMA3_IRQHandler
+                0x0000044c                DMA0_IRQHandler
+                0x0000044c                Reserved91_IRQHandler
+                0x0000044c                CAN1_ORed_IRQHandler
+                0x0000044c                LPUART3_Error_IRQHandler
+                0x0000044c                DMA15_IRQHandler
+                0x0000044c                SCG_IRQHandler
+                0x0000044c                PDB1_IRQHandler
+                0x0000044c                Reserved81_IRQHandler
+                0x0000044c                Reserved46_IRQHandler
+                0x0000044c                CAN1_Reserved1_IRQHandler
+                0x0000044c                CAN0_Reserved2_IRQHandler
+                0x0000044c                CAN2_Reserved3_IRQHandler
+                0x0000044c                Reserved45_IRQHandler
+                0x0000044c                CAN0_Error_IRQHandler
+                0x0000044c                CAN0_Reserved3_IRQHandler
+                0x0000044c                LPI2C1_IRQHandler
+                0x0000044c                DMA4_IRQHandler
+                0x0000044c                LPUART2_Error_IRQHandler
+                0x0000044c                DMA_Error_IRQHandler
+                0x0000044c                LVD_LVW_IRQHandler
+                0x0000044c                LPIT0_Ch2_IRQHandler
+                0x0000044c                FTM0_IRQHandler
+                0x0000044c                PORTA_IRQHandler
+                0x0000044c                MCM_IRQHandler
+                0x0000044c                LPSPI2_IRQHandler
+                0x0000044c                LPUART3_RxTx_IRQHandler
+                0x0000044c                DMA12_IRQHandler
+                0x0000044c                FTM3_IRQHandler
+                0x0000044c                PORTE_IRQHandler
+                0x0000044c                LPUART0_RxTx_IRQHandler
+                0x0000044c                FTM2_IRQHandler
+                0x0000044c                LPTMR0_IRQHandler
+                0x0000044c                BusFault_Handler
+                0x0000044c                CAN1_Reserved2_IRQHandler
+                0x0000044c                DMA8_IRQHandler
+                0x0000044c                Reserved93_IRQHandler
+                0x0000044c                DMA10_IRQHandler
+                0x0000044c                CAN0_Wake_Up_IRQHandler
+                0x0000044c                PORTC_IRQHandler
+                0x0000044c                DMA6_IRQHandler
+                0x0000044c                FLEXIO_IRQHandler
+                0x0000044c                DMA1_IRQHandler
+ *(.text*)
+ .text.SystemInit
+                0x00000450       0x2c ./Project_Settings/Startup_Code/system_S32K144.o
+                0x00000450                SystemInit
+ .text.init_data_bss
+                0x0000047c       0xd0 ./Project_Settings/Startup_Code/startup.o
+                0x0000047c                init_data_bss
+ .text.init_ports
+                0x0000054c       0x38 ./src/hello_clocks.o
+                0x0000054c                init_ports
+ .text.init_LPIT0
+                0x00000584       0x44 ./src/hello_clocks.o
+                0x00000584                init_LPIT0
+ .text.disable_WDOG
+                0x000005c8       0x2c ./src/hello_clocks.o
+                0x000005c8                disable_WDOG
+ .text.main     0x000005f4       0x68 ./src/hello_clocks.o
+                0x000005f4                main
+ .text.init_SOSC_8MHz
+                0x0000065c       0x4c ./src/clocks_and_modes.o
+                0x0000065c                init_SOSC_8MHz
+ .text.init_SPLL_80MHz
+                0x000006a8       0x64 ./src/clocks_and_modes.o
+                0x000006a8                init_SPLL_80MHz
+ *(.rodata)
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x0000070c                . = ALIGN (0x4)
+
+.vfp11_veneer   0x0000070c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0000070c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0000070c        0x0
+ .iplt          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+
+.rel.dyn        0x0000070c        0x0
+ .rel.iplt      0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000070c        0x0
+                0x0000070c                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000070c                __exidx_end = .
+
+.ctors          0x0000070c        0x0
+                0x0000070c                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x0000070c                __CTOR_END__ = .
+
+.dtors          0x0000070c        0x0
+                0x0000070c                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x0000070c                __DTOR_END__ = .
+
+.preinit_array  0x0000070c        0x0
+                0x0000070c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x0000070c                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0000070c        0x0
+                0x0000070c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x0000070c                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0000070c        0x0
+                0x0000070c                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+                0x0000070c                PROVIDE (__fini_array_end, .)
+                0x0000070c                __etext = .
+                0x0000070c                __DATA_ROM = .
+
+.interrupts_ram
+                0x1fff8000        0x0
+                0x1fff8000                . = ALIGN (0x4)
+                0x1fff8000                __VECTOR_RAM__ = .
+                0x1fff8000                __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x1fff8000                . = (. + M_VECTOR_RAM_SIZE)
+                0x1fff8000                . = ALIGN (0x4)
+                0x1fff8000                __interrupts_ram_end__ = .
+                0x00000000                __VECTOR_RAM = DEFINED (__ram_vector_table__)?__VECTOR_RAM__:ORIGIN (m_interrupts)
+                0x00000000                __RAM_VECTOR_TABLE_SIZE_BYTES = DEFINED (__ram_vector_table__)?(__interrupts_ram_end__ - __interrupts_ram_start__):0x0
+
+.data           0x1fff8000        0x0 load address 0x0000070c
+                0x1fff8000                . = ALIGN (0x4)
+                0x1fff8000                __DATA_RAM = .
+                0x1fff8000                __data_start__ = .
+ *(.data)
+ *(.data*)
+ *(.jcr*)
+                0x1fff8000                . = ALIGN (0x4)
+                0x1fff8000                __data_end__ = .
+                0x0000070c                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+
+.igot.plt       0x1fff8000        0x0
+ .igot.plt      0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+
+.bss            0x1fff8000        0x4
+                0x1fff8000                . = ALIGN (0x4)
+                0x1fff8000                __START_BSS = .
+                0x1fff8000                __bss_start__ = .
+ *(.bss)
+ *(.bss*)
+ .bss.lpit0_ch0_flag_counter
+                0x1fff8000        0x4 ./src/hello_clocks.o
+                0x1fff8000                lpit0_ch0_flag_counter
+ *(COMMON)
+                0x1fff8004                . = ALIGN (0x4)
+                0x1fff8004                __bss_end__ = .
+                0x1fff8004                __END_BSS = .
+
+.heap           0x20000000      0x400
+                0x20000000                . = ALIGN (0x8)
+                0x20000000                __end__ = .
+                0x20000000                PROVIDE (end, .)
+                0x20000000                __HeapBase = .
+                0x20000400                . = (. + HEAP_SIZE)
+ *fill*         0x20000000      0x400 
+                0x20000400                __HeapLimit = .
+
+.stack          0x20000400      0x400
+                0x20000400                . = ALIGN (0x8)
+                0x20000800                . = (. + STACK_SIZE)
+ *fill*         0x20000400      0x400 
+                0x20007000                __StackTop = (ORIGIN (m_data_2) + 0x7000)
+                0x20006c00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20007000                PROVIDE (__stack, __StackTop)
+
+.ARM.attributes
+                0x00000000       0x31
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x33 ./Project_Settings/Startup_Code/system_S32K144.o
+ .ARM.attributes
+                0x00000033       0x1b ./Project_Settings/Startup_Code/startup_S32K144.o
+ .ARM.attributes
+                0x0000004e       0x33 ./Project_Settings/Startup_Code/startup.o
+ .ARM.attributes
+                0x00000081       0x33 ./src/hello_clocks.o
+ .ARM.attributes
+                0x000000b4       0x33 ./src/clocks_and_modes.o
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data_2 overflowed with stack and heap)
+OUTPUT(hello_clocks.elf elf32-littlearm)
+
+.debug_info     0x00000000      0xdbb
+ .debug_info    0x00000000      0x104 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_info    0x00000104       0x99 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_info    0x0000019d      0x394 ./Project_Settings/Startup_Code/startup.o
+ .debug_info    0x00000531      0x5dc ./src/hello_clocks.o
+ .debug_info    0x00000b0d      0x2ae ./src/clocks_and_modes.o
+
+.debug_abbrev   0x00000000      0x38b
+ .debug_abbrev  0x00000000       0xba ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_abbrev  0x000000ba       0x14 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_abbrev  0x000000ce      0x101 ./Project_Settings/Startup_Code/startup.o
+ .debug_abbrev  0x000001cf       0xfa ./src/hello_clocks.o
+ .debug_abbrev  0x000002c9       0xc2 ./src/clocks_and_modes.o
+
+.debug_aranges  0x00000000       0xc8
+ .debug_aranges
+                0x00000000       0x28 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_aranges
+                0x00000028       0x20 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_aranges
+                0x00000048       0x20 ./Project_Settings/Startup_Code/startup.o
+ .debug_aranges
+                0x00000068       0x38 ./src/hello_clocks.o
+ .debug_aranges
+                0x000000a0       0x28 ./src/clocks_and_modes.o
+
+.debug_ranges   0x00000000       0x68
+ .debug_ranges  0x00000000       0x18 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_ranges  0x00000018       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_ranges  0x00000028       0x28 ./src/hello_clocks.o
+ .debug_ranges  0x00000050       0x18 ./src/clocks_and_modes.o
+
+.debug_macro    0x00000000    0x14f65
+ .debug_macro   0x00000000       0xae ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x000000ae      0x85c ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0000090a       0x52 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0000095c       0xa0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x000009fc       0x16 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000a12       0x16 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000a28       0x16 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000a3e       0x64 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000aa2      0x185 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000c27      0x140 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000d67       0x9d ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000e04       0x10 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000e14      0x15b ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000f6f       0x28 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000f97       0x58 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000fef    0x13d4e ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00014d3d       0xb8 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00014df5       0xb8 ./src/hello_clocks.o
+ .debug_macro   0x00014ead       0xb8 ./src/clocks_and_modes.o
+
+.debug_line     0x00000000      0x832
+ .debug_line    0x00000000      0x1cf ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_line    0x000001cf       0x82 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_line    0x00000251      0x1e9 ./Project_Settings/Startup_Code/startup.o
+ .debug_line    0x0000043a      0x201 ./src/hello_clocks.o
+ .debug_line    0x0000063b      0x1f7 ./src/clocks_and_modes.o
+
+.debug_str      0x00000000    0x8af39
+ .debug_str     0x00000000    0x8ab56 ./Project_Settings/Startup_Code/system_S32K144.o
+                              0x8abda (size before relaxing)
+ .debug_str     0x0008ab56      0x1ad ./Project_Settings/Startup_Code/startup.o
+                              0x8ad29 (size before relaxing)
+ .debug_str     0x0008ad03      0x1fd ./src/hello_clocks.o
+                              0x8adb8 (size before relaxing)
+ .debug_str     0x0008af00       0x39 ./src/clocks_and_modes.o
+                              0x8acc3 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./Project_Settings/Startup_Code/system_S32K144.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./Project_Settings/Startup_Code/startup.o
+ .comment       0x00000000       0x71 ./src/hello_clocks.o
+ .comment       0x00000000       0x71 ./src/clocks_and_modes.o
+
+.debug_frame    0x00000000      0x16c
+ .debug_frame   0x00000000       0x58 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_frame   0x00000058       0x38 ./Project_Settings/Startup_Code/startup.o
+ .debug_frame   0x00000090       0x8c ./src/hello_clocks.o
+ .debug_frame   0x0000011c       0x50 ./src/clocks_and_modes.o

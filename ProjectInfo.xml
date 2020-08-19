@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	  Copyright : 2015 Freescale, Inc. All Rights Reserved.
+	  This configuration file is a standard interchange file that's format is maintained
+	  by Freescale, Inc. The configuration file is a derivative work
+	  of the Processor Expert Software technology licensed for use by customers
+	  as defined as SOFTWARE in the product's End User License Agreement. This file
+	  and format are free to use and distribute for read-only purposes. You do not have
+	  the right to create these files or modify this format or use for any purposes other
+	  than interchange with the Processor Expert Software technology.
+	  THIS SOFTWARE IS PROVIDED 'AS IS'.
+	  NO WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT
+	  LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+	  PURPOSE APPLY TO THIS SOFTWARE. IN NO EVENT WILL FREESCALE BE LIABLE, WHETHER
+	  IN CONTRACT, TORT, OR OTHERWISE, FOR ANY INCIDENTAL, SPECIAL, INDIRECT,
+	  CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR
+	  ANY LOSS OF USE, LOSS OF TIME, INCONVENIENCE, COMMERCIAL LOSS, OR LOST PROFITS,
+	  SAVINGS, OR REVENUES TO THE FULL EXTENT SUCH MAY BE DISCLAIMED BY LAW.
+-->
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ProjectInfoDescription.xsd">
+  <PROCESSOR>
+    <DeviceID>32K14xxx4</DeviceID>
+    <CoreNum>1</CoreNum>
+    <Cores>
+      <Core>
+        <CoreSet>cortex-m4</CoreSet>
+      </Core>
+    </Cores>
+    <SRAMsize>0K</SRAMsize>
+    <FLASHsize>0K</FLASHsize>
+  </PROCESSOR>
+  <FILES>
+    <GeneratedCs>
+      <PathName>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/Project_Settings/Startup_Code/startup.c</PathName>
+      <PathName>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/Project_Settings/Startup_Code/system_S32K144.c</PathName>
+      <PathName>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/src/clocks_and_modes.c</PathName>
+      <PathName>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/src/hello_clocks.c</PathName>
+    </GeneratedCs>
+    <GeneratedHs>
+      <PathName>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/include/S32K144.h</PathName>
+      <PathName>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/include/derivative.h</PathName>
+      <PathName>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/include/startup.h</PathName>
+      <PathName>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/include/system_S32K144.h</PathName>
+      <PathName>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/src/clocks_and_modes.h</PathName>
+    </GeneratedHs>
+  </FILES>
+  <PATHS>
+    <IncludePaths>
+      <Path>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/include</Path>
+      <Path>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/src</Path>
+    </IncludePaths>
+    <SourceCodePaths>
+      <Path>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/Project_Settings/Startup_Code</Path>
+      <Path>C:/Users/r17052/workspaceS32DS.ARM_S32K144/hello_clocks/src</Path>
+    </SourceCodePaths>
+  </PATHS>
+  <OPTIONS>
+  </OPTIONS>
+</export>
+

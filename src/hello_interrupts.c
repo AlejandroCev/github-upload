@@ -6,6 +6,8 @@
  */
 //probando probando
 //Editando localmente
+
+//Segundas ediciones
 #include "S32K144.h"          /* include peripheral declarations S32K144 */
 #include "clocks_and_modes.h"
 

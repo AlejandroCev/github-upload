@@ -5,6 +5,9 @@
  *
  */
 //probando probando
+
+//Segunda edicion
+
 #include "S32K144.h"          /* include peripheral declarations S32K144 */
 #include "clocks_and_modes.h"
 
@@ -65,3 +68,5 @@ void LPIT0_Ch0_IRQHandler (void) {
   PTD->PTOR |= 1<<0;                /* Toggle output on port D0 (blue LED) */
   LPIT0->MSR |= LPIT_MSR_TIF0_MASK; /* Clear LPIT0 timer flag 0 */
 }
+
+//Tercera edición

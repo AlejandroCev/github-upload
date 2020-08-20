@@ -8,6 +8,8 @@
 #include "derivative.h" /* include peripheral declarations S32K144 */
 #include "clocks_and_modes.h"
 
+//Segunda edicion
+
 void SOSC_init_8MHz(void) {
   SCG->SOSCDIV=0x00000101;  /* SOSCDIV1 & SOSCDIV2 =1: divide by 1 */
   SCG->SOSCCFG=0x00000024;  /* Range=2: Medium freq (SOSC betw 1MHz-8MHz)*/
@@ -47,3 +49,5 @@ void NormalRUNmode_80MHz (void) {  /* Change to normal RUN mode with 8MHz SOSC, 
   if ((SCG->CSR & SCG_CSR_SCS_MASK >> SCG_CSR_SCS_SHIFT ) != 6) {}
                                  /* Wait for sys clk src = SPLL */
 }
+
+//Tercera edicion
